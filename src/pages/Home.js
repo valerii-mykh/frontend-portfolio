@@ -1,4 +1,4 @@
-import Header from "../component/header/Header";
+import Header from '../component/header/Header';
 const Home = () => {
   return (
     <>
@@ -8,10 +8,7 @@ const Home = () => {
           <ul className="content-list">
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
-              <p>
-                JavaScript, TypeScript, ReactJS, Redux, HTML, CSS, NPM,
-                TailwindCSS, StyledComponents
-              </p>
+              <p>HTML, CSS, SCSS, TailwindCSS, JavaScript, TypeScript, ReactJS, Redux, Parcel </p>
             </li>
             <li className="content-list__item">
               <h2 className="title-2">Backend</h2>
