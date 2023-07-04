@@ -1,5 +1,5 @@
 import './style.css';
-import CV from '../../img/CV.pdf';
+import CV from '../../img/C1V.pdf';
 
 const Header = () => {
   return (
