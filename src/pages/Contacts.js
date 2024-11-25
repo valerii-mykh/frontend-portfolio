@@ -12,7 +12,7 @@ const Contacts = () => {
           <li className="content-list__item">
             <h2 className="title-2">Phone number </h2>
             <p>
-              <a href="tel:+380502936993">+38 (050) 29-36-993</a>
+              
             </p>
           </li>
           <li className="content-list__item">
